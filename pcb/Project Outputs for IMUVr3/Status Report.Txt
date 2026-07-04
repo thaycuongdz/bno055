@@ -1,0 +1,39 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [IMUVr3.PrjPcb]
+   Generated File[imuver3.GTO]
+   Generated File[imuver3.GTP]
+   Generated File[imuver3.GTS]
+   Generated File[imuver3.GTL]
+   Generated File[imuver3.GBL]
+   Generated File[imuver3.GBS]
+   Generated File[imuver3.GBP]
+   Generated File[imuver3.GBO]
+   Generated File[imuver3.GM1]
+   Generated File[imuver3.GM2]
+   Generated File[imuver3.GM3]
+   Generated File[imuver3.GM5]
+   Generated File[imuver3.GM7]
+   Generated File[imuver3.GM13]
+   Generated File[imuver3.GM15]
+   Generated File[imuver3.GM16]
+   Generated File[imuver3.GM20]
+   Generated File[imuver3.GM21]
+   Generated File[imuver3.GM23]
+   Generated File[imuver3.GM24]
+   Generated File[imuver3.GKO]
+   Generated File[imuver3.GPT]
+   Generated File[imuver3.GPB]
+   Generated File[imuver3.GML]
+   Generated File[imuver3.1]
+   Generated File[imuver3.GD1]
+   Generated File[imuver3.GG1]
+   Generated File[imuver3.GM]
+   Generated File[imuver3.EXTREP]
+   Generated File[imuver3.REP]
+
+
+Files Generated   : 30
+Documents Printed : 0
+
+Finished Output Generation At 12:44:32 AM On 6/3/2026
